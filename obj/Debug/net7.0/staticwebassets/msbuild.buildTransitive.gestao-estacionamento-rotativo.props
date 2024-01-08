@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\gestao-estacionamento-rotativo.props" />
+</Project>
